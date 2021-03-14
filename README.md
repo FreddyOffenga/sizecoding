@@ -1,5 +1,7 @@
 # Sizecoding
 
-Presentation and code snippets will be placed here after the lovebyte demoparty!
+Presentations and code snippets.
+
+The presentations were given at Lovebyte demoparty March 2021
 
 http://www.lovebyte.party/
