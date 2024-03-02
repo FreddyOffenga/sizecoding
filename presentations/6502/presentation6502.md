@@ -11,7 +11,6 @@ _class: invert lead
 <!-- paginate: true -->
 <!-- header: '_6502 Atari 8-bit Sizecoding_' -->
 <!-- footer: '_F#READY_ @ _Lovebyte party 2021_' -->
-![bg right:45% 80%](./images/freddy_baron.jpg)
 
 ### F#READY
 - Software Engineer
